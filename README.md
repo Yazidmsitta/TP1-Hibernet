@@ -92,13 +92,13 @@ Le programme crée automatiquement trois produits :
 
 La requête `SELECT * FROM PRODUIT;` retourne les trois produits enregistrés dans la base.
 
-![Console H2 : table PRODUIT avec les résultats de la requête](docs/images/h2-produits.png)
+![Console H2 : table PRODUIT avec les résultats de la requête](./TP1/docs/images/h2-produits.png)
 
 ### Exécution dans IntelliJ IDEA
 
 L'application affiche la liste des produits ainsi que le produit retrouvé avec l'identifiant 2.
 
-![IntelliJ IDEA : exécution du programme et recherche du produit 2](docs/images/intellij-execution.png)
+![IntelliJ IDEA : exécution du programme et recherche du produit 2](./TP1/docs/images/intellij-execution.png)
 
 ## Résultat attendu
 
